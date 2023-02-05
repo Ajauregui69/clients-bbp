@@ -16,7 +16,7 @@
         </div>
         <Footer/>
       </div>
-      <Customizer/>
+      <!--<Customizer/>-->
       <TapTop/>
     </div>
   </div>
@@ -28,7 +28,7 @@
   import Header from './header';
   import Sidebar from './sidebar';
   import Footer from './footer';
-  import Customizer from './customizer';
+  //import Customizer from './customizer';
   import TapTop from './taptop';
 
   export default {
@@ -38,7 +38,7 @@
       Header,
       Sidebar,
       Footer,
-      Customizer,
+      //Customizer,
       TapTop
     },
     data(){

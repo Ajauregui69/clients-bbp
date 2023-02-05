@@ -5,7 +5,7 @@ const state = {
   data: Menu.data,
   megamenu: BonusUI.data,
   searchData: [],
-  togglesidebar: true,
+  togglesidebar: false,
   activeoverlay : false,
   searchOpen : false,
   customizer: '',
